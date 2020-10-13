@@ -25,6 +25,7 @@ After making all the proper calculations from the original data, I then had to r
 and
 
 ```student_data_df.loc[(student_data_df["grade"] == "9th") & (student_data_df["school_name"] == "Thomas High School"),"math_score"]=np.nan```
+
 to remove all of the 9th grade Thomas High School scores and replaced them with a NaN (not a number).
 
 Four major changes from the original calculations were the math score percentage, reading score percentage, overall score percentage and total number of students counted for the analysis.
