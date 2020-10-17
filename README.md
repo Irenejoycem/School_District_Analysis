@@ -47,9 +47,7 @@ Replacing the ninth graders' math and reading scores affect school summary by ch
 ![Scores_By_School_Type.png](Scores_By_School_Type.png)
 
 # Summary: 
->Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
-
-After making all the proper calculations from the original data, I then had to remove all of Thomas High School's 9th grade scores due to academic dishonety. I was able to use the code
+>After making all the proper calculations from the original data, I then had to remove all of Thomas High School's 9th grade scores due to academic dishonety. I was able to use the code:
 
 ```student_data_df.loc[(student_data_df["grade"] == "9th") & (student_data_df["school_name"] == "Thomas High School"),"reading_score"]=np.nan```
 
