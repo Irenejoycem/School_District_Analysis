@@ -8,17 +8,17 @@ The school district summary was affected by removing all of the 9th grade studen
 
 Below is the new school district summary output:
 
-![District Summary.png](District Summary.png)
+![District_Summary.png](District_Summary.png)
 
 -The school summary was affected by the average percentage of math, reading and overall scores calculated.
 
 Here was the **old** calculations with the 9th grade Thomas High School Students:
 
-![Old School Summary With 9th.png](Old School Summary With 9th.png)
+![Old_School_Summary_With_9th.png](Old_School_Summary_With_9th.png)
 
 Here is the **new** calculations without the 9th grade Thomas High School Students:
 
-![New School Summary Without 9th.png](New School Summary Without 9th.png)
+![New_School_Summary_Without_9th.png](New_School_Summary_Without_9th.png)
 
 Replacing the ninth graders' math and reading scores affect school summary by changing the school's percentage. It looks like there was an increase compared to what the previous school summary was based on the comparison of the two images above.
 
@@ -32,19 +32,19 @@ Replacing the ninth graders' math and reading scores affect school summary by ch
 
 >Reading Scores By Grade:
 
->![New Reading Scores By Grade.png](New Reading Scores By Grade.png)
+>![New_Reading_Scores_By_Grade.png](New_Reading_Scores_By_Grade.png)
 
 >Scores by school spending:
 
->![Scores By School Spending.png](Scores By School Spending.png)
+>![Scores_By_School_Spending.png](Scores_By_School_Spending.png)
 
 >Scores by school size:
 
->![Scores By School Size.png](Scores By School Size.png)
+>![Scores_By_School_Size.png](Scores_By_School_Size.png)
 
 >Scores by school type
 
-![Scores By School Type.png](Scores By School Type.png)
+![Scores_By_School_Type.png](Scores_By_School_Type.png)
 
 # Summary: 
 >Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
