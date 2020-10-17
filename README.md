@@ -28,7 +28,7 @@ Replacing the ninth graders' math and reading scores affect school summary by ch
 
 >Math Scores By Grade:
 
->![New Math Scores By Grade.png](New Math Scores By Grade.png)
+>![New_Math_Scores_By_Grade.png](New_Math_Scores_By_Grade.png)
 
 >Reading Scores By Grade:
 
