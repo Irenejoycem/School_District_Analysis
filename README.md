@@ -10,7 +10,7 @@ Below is the new school district summary output:
 
 ![District_Summary.png](District_Summary.png)
 
--The school summary was affected by the average percentage of math, reading and overall scores calculated.
+- The school summary was affected by the average percentage of math, reading and overall scores calculated.
 
 Here was the **old** calculations with the 9th grade Thomas High School Students:
 
@@ -24,25 +24,25 @@ Replacing the ninth graders' math and reading scores affect school summary by ch
 
 - Replacing the ninth-grade scores affect the following:
 
->Math and reading scores by grade now show those scores are "NaN" in the Scores By Grade dataframe for ninth grade scores for Thomas High School:
+Math and reading scores by grade now show those scores are "NaN" in the Scores By Grade dataframe for ninth grade scores for Thomas High School:
 
->Math Scores By Grade:
+Math Scores By Grade:
 
->![New_Math_Scores_By_Grade.png](New_Math_Scores_By_Grade.png)
+![New_Math_Scores_By_Grade.png](New_Math_Scores_By_Grade.png)
 
->Reading Scores By Grade:
+Reading Scores By Grade:
 
->![New_Reading_Scores_By_Grade.png](New_Reading_Scores_By_Grade.png)
+![New_Reading_Scores_By_Grade.png](New_Reading_Scores_By_Grade.png)
 
->Scores by school spending:
+Scores by school spending:
 
->![Scores_By_School_Spending.png](Scores_By_School_Spending.png)
+![Scores_By_School_Spending.png](Scores_By_School_Spending.png)
 
->Scores by school size:
+Scores by school size:
 
->![Scores_By_School_Size.png](Scores_By_School_Size.png)
+![Scores_By_School_Size.png](Scores_By_School_Size.png)
 
->Scores by school type
+Scores by school type
 
 ![Scores_By_School_Type.png](Scores_By_School_Type.png)
 
